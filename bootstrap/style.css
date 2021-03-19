@@ -1,0 +1,14 @@
+body {
+  background: #f0f2f5;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  height: 100px;
+  margin-left: -28px;
+}
+
+.line {
+  border-bottom: 1px solid #000;
+}
+/*# sourceMappingURL=style.css.map */
