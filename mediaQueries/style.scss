@@ -1,10 +1,24 @@
 body {
+  background: #f0f2f5;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
-.logo {
-  //margin-top: 180px;
-}
+@media (min-width: 768px) {
+  .left-items-start {
+    align-items: flex-start !important;
+  }
 
-.form {
-  // margin-top: 150px;
+  .width-58 {
+    flex: 0 0 auto;
+    width: 58.3333333333%;
+  }
+
+  .width-42 {
+    flex: 0 0 auto;
+    width: 41.6666666667%;
+  }
+
+  .block {
+    display: block !important;
+  }
 }
