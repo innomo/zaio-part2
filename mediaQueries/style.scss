@@ -3,6 +3,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 @media (min-width: 768px) {
   .left-items-start {
     align-items: flex-start !important;
